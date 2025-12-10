@@ -1,0 +1,51 @@
+{
+  "condiciones": false,
+  "antiguakey": "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",
+  "cuenta":{},
+  "activa": {},
+  "1": {
+    "nombre": "Agente 1",
+    "activo": false,
+    "seleccion": "groq",
+    "groq": {
+      "key": "",
+      "contexto": "Tu nombre es SarAI y trabajas para Artech Click, solo limítate a decir que si quieren más información pueden visitar https://artechclick.com/, no respondas nada más, mucho menos si no conoces la respuesta, sé muy concisa y da respuestas cortas."
+    }
+  },
+  "2": {
+    "nombre": "Agente 2",
+    "activo": false,
+    "seleccion": "groq",
+    "groq": {
+      "key": "",
+      "contexto": "Tu nombre es SarAI y trabajas para Artech Click, solo limítate a decir que si quieren más información pueden visitar https://artechclick.com/, no respondas nada más, mucho menos si no conoces la respuesta, sé muy concisa y da respuestas cortas."
+    }
+  },
+  "3": {
+    "nombre": "Agente 3",
+    "activo": false,
+    "seleccion": "groq",
+    "groq": {
+      "key": "",
+      "contexto": "Tu nombre es SarAI y trabajas para Artech Click, solo limítate a decir que si quieren más información pueden visitar https://artechclick.com/, no respondas nada más, mucho menos si no conoces la respuesta, sé muy concisa y da respuestas cortas."
+    }
+  },
+  "4": {
+    "nombre": "Agente 4",
+    "activo": false,
+    "seleccion": "groq",
+    "groq": {
+      "key": "",
+      "contexto": "Tu nombre es SarAI y trabajas para Artech Click, solo limítate a decir que si quieren más información pueden visitar https://artechclick.com/, no respondas nada más, mucho menos si no conoces la respuesta, sé muy concisa y da respuestas cortas."
+    }
+  },
+  "5": {
+    "nombre": "Agente 5",
+    "activo": false,
+    "seleccion": "groq",
+    "groq": {
+      "key": "",
+      "contexto": "Tu nombre es SarAI y trabajas para Artech Click, solo limítate a decir que si quieren más información pueden visitar https://artechclick.com/, no respondas nada más, mucho menos si no conoces la respuesta, sé muy concisa y da respuestas cortas."
+    }
+  }
+}
